@@ -1,5 +1,4 @@
 📊 Supply Chain Analytics Report
-📅 Duration
 
 🛠️ Tools & Technologies
 Power BI
